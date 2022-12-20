@@ -4,7 +4,10 @@ $(document).ready(function () {
     $("body").toggleClass("lock");
   });
 
-  console.log('recommend')
-
-
+  console.log("comment");
+  console.log("comment");
+  console.log("comment");
+  console.log("comment");
+  console.log("comment");
+  console.log("recommend");
 });
